@@ -223,6 +223,11 @@ section {
    .cart {
       width: 300px;
    }
+   
+   .add-cart {
+      righ:10px;
+      padding:6px;
+    }
 
    .shop-content {
       padding: 0px 20px;
